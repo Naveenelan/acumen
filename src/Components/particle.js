@@ -1,6 +1,6 @@
 import React from 'react'
 import Particles from "react-tsparticles";
-import {loadFull} from "tsparticles";
+import { loadFull } from "tsparticles";
 function particle() {
     const particlesInit = async (main) => {
         console.log(main);
@@ -17,7 +17,7 @@ function particle() {
             options={{
                 background: {
                     color: {
-                        value: "#000000",
+                        value: "#1a1817",
                     },
                 },
                 fpsLimit: 120,
@@ -45,10 +45,10 @@ function particle() {
                 },
                 particles: {
                     color: {
-                        value: "#034F7A",
+                        value: "#ff6f00",
                     },
                     links: {
-                        color: "#7af1fa",
+                        color: "#ff6f00",
                         distance: 150,
                         enable: true,
                         opacity: 0.5,
@@ -81,7 +81,7 @@ function particle() {
                         type: "circle",
                     },
                     size: {
-                        value: {min: 2, max: 5},
+                        value: { min: 2, max: 5 },
                     },
                 },
                 detectRetina: true,
