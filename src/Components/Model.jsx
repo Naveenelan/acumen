@@ -26,7 +26,7 @@ const Modal = ({ setIsOpen, handleClick, Content }) => {
           <p className="sm:text-[22px] text-[23px] font-bold text-[var(--red)] text-start">
             Gpay Number:{" "}
             <span className="text-[var(--blue)]">
-              9894821278 - Nanthakkumatan S{" "}
+              9894821278 - Nanthakkumaran S{" "}
             </span>
           </p>
           <p className="py-2 font-bold  text-2xl text-[var(--red)] text-start">
