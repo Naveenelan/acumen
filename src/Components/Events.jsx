@@ -31,7 +31,7 @@ function Events() {
       content:
         "Each team having maximum of 3 members can participate. One registration per team is enough. No need for individual registration of participants.",
       session: "FORENOON",
-      link: "https://forms.gle/2D91g5Azfed9HVSe8",
+      link: "https://forms.gle/FEtmFUExZS2PiwSX6",
     },
     {
       name: "Picture yourself",
