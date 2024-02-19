@@ -36,7 +36,7 @@ const Modal = ({ setIsOpen, handleClick, Content }) => {
             P . Naveen Bharathi - 9488042479{" "}
           </p>
           <p className="text-[var(--blue)] text-start">
-            Miss .R . Harini - 7708921542{" "}
+            R . Harini - 7708921542{" "}
           </p>
           <div className="flex justify-center mt-8">
             <a

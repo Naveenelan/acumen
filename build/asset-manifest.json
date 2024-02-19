@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/acumen/static/css/main.922f31fe.css",
-    "main.js": "/acumen/static/js/main.1887e4eb.js",
+    "main.js": "/acumen/static/js/main.2b62b456.js",
     "static/js/787.396ffc22.chunk.js": "/acumen/static/js/787.396ffc22.chunk.js",
     "static/media/poster.png": "/acumen/static/media/poster.c70210a68d0c41bf09f7.png",
     "static/media/KAVIYA V.jpg": "/acumen/static/media/KAVIYA V.e33b1bf360d5382e17db.jpg",
@@ -11,15 +11,17 @@
     "static/media/SUBHIKSHA S.jpg": "/acumen/static/media/SUBHIKSHA S.f6d4e760028670622ede.jpg",
     "static/media/BOOBATHI RAJA K.M.jpg": "/acumen/static/media/BOOBATHI RAJA K.M.f4c2efa0d3b166b278f7.jpg",
     "static/media/ece.png": "/acumen/static/media/ece.caadc3cc25fff0d7058a.png",
+    "static/media/mani.jpg": "/acumen/static/media/mani.7797c51ce650d0ed1d6e.jpg",
     "static/media/SRI YAALINI M.jpg": "/acumen/static/media/SRI YAALINI M.be1020280c1fa66af794.jpg",
     "static/media/SAKTHIMURUGAN R.jpg": "/acumen/static/media/SAKTHIMURUGAN R.d1edd0918fa005937805.jpg",
     "static/media/VENKATESH G.jpg": "/acumen/static/media/VENKATESH G.e4c71a62844a191abd3d.jpg",
     "static/media/naveen.jpg": "/acumen/static/media/naveen.6b5f28b943380c29b28b.jpg",
-    "static/media/CibiKrishnaV.jpg": "/acumen/static/media/CibiKrishnaV.b99a04c28a7a469ea038.jpg",
     "static/media/MYTHILI R S.jpg": "/acumen/static/media/MYTHILI R S.190cdec4536a435ab8dc.jpg",
     "static/media/Nisaanth P.jpg": "/acumen/static/media/Nisaanth P.75022bcf8a74155d25ef.jpg",
     "static/media/ANANYA K S.jpg": "/acumen/static/media/ANANYA K S.f50e3a7a18a86ebfd6ea.jpg",
+    "static/media/jeevagan.jpg": "/acumen/static/media/jeevagan.0aa757684e8c9334d51f.jpg",
     "static/media/deena.jpg": "/acumen/static/media/deena.39b59a9f51eb18073e43.jpg",
+    "static/media/cibi.jpeg": "/acumen/static/media/cibi.edd1ea43051a2d7a2fb8.jpeg",
     "static/media/MALAVIKA V.jpg": "/acumen/static/media/MALAVIKA V.88bd8b1edaef08cccac3.jpg",
     "static/media/jinisha.jpg": "/acumen/static/media/jinisha.5b74207da771813a258d.jpg",
     "static/media/Sowmitha.jpg": "/acumen/static/media/Sowmitha.6c378ae9f7260578e49b.jpg",
@@ -28,18 +30,20 @@
     "static/media/nijithra.jpg": "/acumen/static/media/nijithra.6df2ccd8849bb7f22970.jpg",
     "static/media/Kaveya P.jpg": "/acumen/static/media/Kaveya P.ad6943d41af702c52e91.jpg",
     "static/media/iete.png": "/acumen/static/media/iete.019cca8e27523ca7803f.png",
+    "static/media/janani.jpg": "/acumen/static/media/janani.c51545e2ecb816e660b1.jpg",
     "static/media/Harini R.jpg": "/acumen/static/media/Harini R.460fa238cdb38a92f5ca.jpg",
     "static/media/AkshayaRS.jpg": "/acumen/static/media/AkshayaRS.a8a1bc0b4b82ea76a9cc.jpg",
     "static/media/PRETHIKAA D.jpeg": "/acumen/static/media/PRETHIKAA D.af3cd31d742918649076.jpeg",
     "static/media/Sabari U P.jpg": "/acumen/static/media/Sabari U P.90b9681d77ff21ec9caa.jpg",
+    "static/media/elangoo.jpg": "/acumen/static/media/elangoo.dd35bc5bc584931f9f23.jpg",
     "static/media/NanthakumaranS.jpg": "/acumen/static/media/NanthakumaranS.9ff488c7af565253dc5f.jpg",
     "static/media/AravindanA.jpg": "/acumen/static/media/AravindanA.683061937f97d652bb01.jpg",
+    "static/media/vi.jpg": "/acumen/static/media/vi.0043c7b9c0e1278f4e2d.jpg",
     "static/media/veenas.jpg": "/acumen/static/media/veenas.677c786f06c871bb031b.jpg",
     "static/media/jude.jpg": "/acumen/static/media/jude.82e7b644f8147d0a19a7.jpg",
     "static/media/SaravanakumarP.jpg": "/acumen/static/media/SaravanakumarP.dc2370e9bef23b503122.jpg",
     "static/media/sowmika.jpg": "/acumen/static/media/sowmika.20802c555c78e8b69de5.jpg",
     "static/media/gokuld.jpg": "/acumen/static/media/gokuld.265df63fddb52d550ff2.jpg",
-    "static/media/maleicon.jpg": "/acumen/static/media/maleicon.92e308603e86610c9997.jpg",
     "static/media/prasanna.jpg": "/acumen/static/media/prasanna.ac53b532254fe00f3a66.jpg",
     "static/media/sujit.jpg": "/acumen/static/media/sujit.13d1126476bd46d5b16e.jpg",
     "static/media/SHRI SUDHAN B.jpg": "/acumen/static/media/SHRI SUDHAN B.d39beb6298a30b86cfff.jpg",
@@ -50,11 +54,11 @@
     "static/media/chandru.jpg": "/acumen/static/media/chandru.19528da7379c929c3fb2.jpg",
     "index.html": "/acumen/index.html",
     "main.922f31fe.css.map": "/acumen/static/css/main.922f31fe.css.map",
-    "main.1887e4eb.js.map": "/acumen/static/js/main.1887e4eb.js.map",
+    "main.2b62b456.js.map": "/acumen/static/js/main.2b62b456.js.map",
     "787.396ffc22.chunk.js.map": "/acumen/static/js/787.396ffc22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.922f31fe.css",
-    "static/js/main.1887e4eb.js"
+    "static/js/main.2b62b456.js"
   ]
 }
