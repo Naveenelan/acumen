@@ -232,9 +232,7 @@ function About() {
           <div class="flip-card">
             <div class="flip-card-inner">
               <div class="flip-card-front">
-                <img
-                  src={require("../assets/office_barriers/CibiKrishnaV.jpg")}
-                />
+                <img src={require("../assets/office_barriers/cibi.jpeg")} />
                 <div className="absolute text-black paraname">
                   Cibi Krishna V
                 </div>
@@ -314,11 +312,11 @@ function About() {
           <div class="flip-card">
             <div class="flip-card-inner">
               <div class="flip-card-front">
-                <img src={require("../assets/office_barriers/maleicon.jpg")} />
+                <img src={require("../assets/office_barriers/mani.jpg")} />
                 <div className="absolute text-black paraname">Manikandan T</div>
               </div>
               <div class="flip-card-back">
-                <h1 className="post text-center">Executive Member</h1>
+                <h1 className="post text-center">Executi ve Member</h1>
                 <h1 className="text-center post">ECEA</h1>
               </div>
             </div>
@@ -342,7 +340,7 @@ function About() {
           <div class="flip-card">
             <div class="flip-card-inner">
               <div class="flip-card-front">
-                <img src={require("../assets/office_barriers/maleicon.jpg")} />
+                <img src={require("../assets/office_barriers/jeevagan.jpg")} />
                 <div className="absolute text-black paraname">Jeevagan N</div>
               </div>
               <div class="flip-card-back">
@@ -416,7 +414,7 @@ function About() {
           <div class="flip-card">
             <div class="flip-card-inner">
               <div class="flip-card-front">
-                <img src={require("../assets/office_barriers/maleicon.jpg")} />
+                <img src={require("../assets/office_barriers/elangoo.jpg")} />
                 <div className="absolute text-black paraname">Elango S</div>
               </div>
               <div class="flip-card-back">
@@ -428,9 +426,7 @@ function About() {
           <div class="flip-card">
             <div class="flip-card-inner">
               <div class="flip-card-front">
-                <img
-                  src={require("../assets/office_barriers/femaleicon.png")}
-                />
+                <img src={require("../assets/office_barriers/janani.jpg")} />
                 <div className="absolute text-black paraname">Janani R</div>
               </div>
               <div class="flip-card-back">
@@ -472,9 +468,7 @@ function About() {
           <div class="flip-card">
             <div class="flip-card-inner">
               <div class="flip-card-front">
-                <img
-                  src={require("../assets/office_barriers/femaleicon.png")}
-                />
+                <img src={require("../assets/office_barriers/vi.jpg")} />
                 <div className="absolute text-black paraname">
                   Vijayashika K M
                 </div>

@@ -112,7 +112,7 @@ function Events() {
               id="0"
               onClick={handleClick}
             >
-              Register soon
+              Register
             </button>
           </div>
           <div id="2" className="shield">
@@ -122,7 +122,7 @@ function Events() {
               id="1"
               onClick={handleClick}
             >
-              Register soon
+              Register
             </button>
           </div>
           <div id="4" className="shield">
@@ -132,7 +132,7 @@ function Events() {
               id="2"
               onClick={handleClick}
             >
-              Register soon
+              Register
             </button>
           </div>
           <div id="5" className="shield">
@@ -142,7 +142,7 @@ function Events() {
               id="3"
               onClick={handleClick}
             >
-              Register soon
+              Register
             </button>
           </div>
         </div>
@@ -164,7 +164,7 @@ function Events() {
               id="4"
               onClick={handleClick}
             >
-              Register soon
+              Register
             </button>
           </div>
           <div id="7" className="shield">
@@ -174,7 +174,7 @@ function Events() {
               id="5"
               onClick={handleClick}
             >
-              Register soon
+              Register
             </button>
           </div>
           <div id="8" className="shield">
@@ -184,7 +184,7 @@ function Events() {
               id="6"
               onClick={handleClick}
             >
-              Register soon
+              Register
             </button>
           </div>
           <div id="9" className="shield">
@@ -194,7 +194,7 @@ function Events() {
               id="7"
               onClick={handleClick}
             >
-              Register soon
+              Register
             </button>
           </div>
         </div>
@@ -215,7 +215,7 @@ function Events() {
               id="8"
               onClick={handleClick}
             >
-              Register soon
+              Register
             </button>
           </div>
           <div id="2" className="shield">
@@ -225,7 +225,7 @@ function Events() {
               id="9"
               onClick={handleClick}
             >
-              Register soon
+              Register
             </button>
           </div>
           <div id="4" className="shield">
@@ -235,7 +235,7 @@ function Events() {
               id="10"
               onClick={handleClick}
             >
-              Register soon
+              Register
             </button>
           </div>
         </div>
