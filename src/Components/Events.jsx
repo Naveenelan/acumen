@@ -10,14 +10,14 @@ function Events() {
       content:
         "Each team having minimum of 1 member and maximum of 3 members can present a paper on any particular technical or core topic. One registration per team is enough. No need for individual registration of participants. Registration Fee is Rs.200 Per head. Papers related to Embedded, VLSI, Communication and Networking, Signal and Image Processing, Artificial Intelligence andMachine Learning, Website, Mobile App, Biomedical and etc are accepted. Prior registration is required to participate in this event. Abstract should not exceed the limit of 400 words. Maximum of 15 slides and minimum of 10 slides should be there in the PPT. The team will get 5 minutes to present their paper followed by a 2 minutes query session. The work should be original and plagiarism must be avoided. Bring soft copy of PPT in pendrive or have it in mail.",
       session: "FORENOON",
-      link: "https://forms.gle/dfB8bJvv4v29jxqE8",
+      link: "https://forms.gle/kGuwryTnXgnY2N8TA",
     },
     {
       name: "PROJECT PRESENTATION",
       content:
         "Each team having minimum of 1 member and maximum of 3 members can display their project. One registration per team is enough. No need for individual registration of participants. Registration Fee is Rs.200 per head. Hardware/ Prototype should be displayed on the day of the event. It is mandatory, if failed the team will be disqualified. Prior registration isrequired to participate in this event. Abstract should not exceed the limit of 400 words. PPT about the project is optional.",
       session: "FORENOON",
-      link: "https://forms.gle/QEtH6crq52yPqt3r5",
+      link: "https://forms.gle/m1vgFF776w641tz59",
     },
     {
       name: "CODATHON",
