@@ -8,21 +8,21 @@ function Events() {
     {
       name: "PAPER PRESENTATION",
       content:
-        "Each team having minimum of 2 member and maximum of 3 members can present a paper on any particular technical or core topic. One registration per team is enough. No need for individual registration of participants. Registration Fee is Rs.200 Per head. Papers related to Embedded, VLSI, Communication and Networking, Signal and Image Processing, Artificial Intelligence andMachine Learning, Website, Mobile App, Biomedical and etc are accepted. Prior registration is required to participate in this event. Abstract should not exceed the limit of 400 words. Maximum of 15 slides and minimum of 10 slides should be there in the PPT. The team will get 5 minutes to present their paper followed by a 2 minutes query session. The work should be original and plagiarism must be avoided. Bring soft copy of PPT in pendrive or have it in mail.",
+        "Each team having minimum of 1 member and maximum of 3 members can present a paper on any particular technical or core topic. One registration per team is enough. No need for individual registration of participants. Registration Fee is Rs.200 Per head. Papers related to Embedded, VLSI, Communication and Networking, Signal and Image Processing, Artificial Intelligence andMachine Learning, Website, Mobile App, Biomedical and etc are accepted. Prior registration is required to participate in this event. Abstract should not exceed the limit of 400 words. Maximum of 15 slides and minimum of 10 slides should be there in the PPT. The team will get 5 minutes to present their paper followed by a 2 minutes query session. The work should be original and plagiarism must be avoided. Bring soft copy of PPT in pendrive or have it in mail.",
       session: "FORENOON",
-      link: "https://forms.gle/6goyWn5QaNjpZJyj6",
+      link: "https://forms.gle/dfB8bJvv4v29jxqE8",
     },
     {
       name: "PROJECT PRESENTATION",
       content:
-        "Each team having minimum of 2 member and maximum of 3 members can display their project. One registration per team is enough. No need for individual registration of participants. Registration Fee is Rs.200 per head. Hardware/ Prototype should be displayed on the day of the event. It is mandatory, if failed the team will be disqualified. Prior registration isrequired to participate in this event. Abstract should not exceed the limit of 400 words. PPT about the project is optional.",
+        "Each team having minimum of 1 member and maximum of 3 members can display their project. One registration per team is enough. No need for individual registration of participants. Registration Fee is Rs.200 per head. Hardware/ Prototype should be displayed on the day of the event. It is mandatory, if failed the team will be disqualified. Prior registration isrequired to participate in this event. Abstract should not exceed the limit of 400 words. PPT about the project is optional.",
       session: "FORENOON",
-      link: "https://forms.gle/RqSLtdanzJnMzsv87",
+      link: "https://forms.gle/QEtH6crq52yPqt3r5",
     },
     {
       name: "CODATHON",
       content:
-        "Each team having maximum of 2 members can participate. One registration per team is enough. No need for individual registration of participants.Participants must have Hackerrank ID. Consists of various rounds.",
+        "Each team having maximum of 1 members can participate. One registration per team is enough. No need for individual registration of participants.Participants must have Hackerrank ID. Consists of various rounds.",
       session: "FORENOON",
       link: "https://forms.gle/uruodJDvq2vVX94k7",
     },
@@ -67,19 +67,22 @@ function Events() {
     },
     {
       name: "Battery For EV",
-      content: "Registration fees per head Rs.200",
+      content:
+        "A battery for an electric vehicle (EV) is a rechargeable energy storage device specifically designed to power the electric motor(s) that propel the vehicle. It serves as the primary source of energy for the EV, storing electricity generated from external sources such as charging stations or regenerative braking.      Registration fees per head Rs.200",
       session: "9.00 am to 4.30 pm",
       link: "https://forms.gle/qCx9N5Y2ZvyUQ6XAA",
     },
     {
       name: "Drone technology",
-      content: "Registration fees per head Rs.200",
+      content:
+        "Drone technology, also known as unmanned aerial vehicle (UAV) technology, has rapidly advanced in recent years, transforming various industries and enabling a wide range of applications. Drones are essentially flying robots that can be remotely controlled or programmed to fly autonomously using onboard sensors and GPS technology.Registration fees per head Rs.200",
       session: "9.00 am to 4.30 pm",
       link: "https://forms.gle/ehP7gajs7Rw1iPbN8",
     },
     {
       name: "Smart 5G Antenna",
-      content: "Registration fees per head Rs.200",
+      content:
+        "A Smart 5G Antenna is a cutting-edge telecommunications device designed to enhance and optimize 5G wireless communication networks. Unlike traditional antennas, which passively transmit and receive signals, a Smart 5G Antenna incorporates advanced technologies to actively manage and improve signal reception and transmission for 5G-enabled devices.Registration fees per head Rs.200",
       session: "9.00 am to 4.30 pm",
       link: "https://forms.gle/RFWnux5zwKPvNboPA",
     },
