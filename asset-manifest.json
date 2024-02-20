@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/acumen/static/css/main.922f31fe.css",
-    "main.js": "/acumen/static/js/main.e3de5957.js",
+    "main.js": "/acumen/static/js/main.72711ae7.js",
     "static/js/787.396ffc22.chunk.js": "/acumen/static/js/787.396ffc22.chunk.js",
     "static/media/poster.png": "/acumen/static/media/poster.c70210a68d0c41bf09f7.png",
     "static/media/KAVIYA V.jpg": "/acumen/static/media/KAVIYA V.e33b1bf360d5382e17db.jpg",
@@ -54,11 +54,11 @@
     "static/media/chandru.jpg": "/acumen/static/media/chandru.19528da7379c929c3fb2.jpg",
     "index.html": "/acumen/index.html",
     "main.922f31fe.css.map": "/acumen/static/css/main.922f31fe.css.map",
-    "main.e3de5957.js.map": "/acumen/static/js/main.e3de5957.js.map",
+    "main.72711ae7.js.map": "/acumen/static/js/main.72711ae7.js.map",
     "787.396ffc22.chunk.js.map": "/acumen/static/js/787.396ffc22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.922f31fe.css",
-    "static/js/main.e3de5957.js"
+    "static/js/main.72711ae7.js"
   ]
 }
